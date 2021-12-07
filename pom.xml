@@ -22,7 +22,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
  <build>
  <finalName>integration-jenkins-docker-maven</finalName>
  </build>
+ 
 </project>
